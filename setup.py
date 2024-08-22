@@ -7,7 +7,7 @@ import re
 from bs4 import BeautifulSoup
 import asyncio
 
-TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TOKEN = '6082775494:AAGUui_xWfiD3k1ZsA29r6yeRIkL8mbpeVQ'
 
 bot = telebot.TeleBot(TOKEN)
 
